@@ -1,0 +1,18 @@
+title: "Mbuyiselo Kosi — Notes on Software Testing"
+description: "Personal blog documenting my learning journey in software testing, QA, and automation."
+theme: minima
+show_excerpts: true
+url: "https://mbuyiselokosi.github.io"
+baseurl: "/Mbuyiselo-K.github.io"
+author:
+  name: "Mbuyiselo Kosi"
+  twitter_username: "your_twitter_handle" # optional
+  github_username: "mbuyiselokosi"
+
+# Default image for link previews
+image: "/assets/img/preview.png"
+
+# Plugins for SEO and RSS feed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
