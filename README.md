@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Mbuyiselo 
 
-<!--
-**MbuyiseloKosi/MbuyiseloKosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning bacend development and documenting the process in public.
 
-Here are some ideas to get you started:
+My current focus is on making sure I have strong fundamentals:
+  - Understanding how APIs work
+  - Learning how data flows through systems
+  - Writing clean, readable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Very much a WIP
+
+Tech I'm currently working on:
+- Language: Python
+- Backend: FastAPI
+- Database: PostgreSQL
+- Tools: Git, Github, Linux
+- Currently learning : APIs, databases, backend fundamentals
+
+What you'll find here
+  - Small projects as I learn
+  - Experiments and notes
+
+I intend to follow a simple loop:
+
+Learn → Build → Break → Fix → Write → Repeat
+
+🌱 Current Focus
+
+- Backend fundamentals
+- REST APIs
+- Databases & data modeling
+- Writing better code every week
+
+📫 How to reach me: X (Twitter): @selotech7
+
